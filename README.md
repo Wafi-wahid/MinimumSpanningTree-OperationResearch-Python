@@ -98,15 +98,15 @@ This project uses NetworkX and Matplotlib for graph visualization:
 
 ### Applications
 This project has real-world applications in:
-**Network Design:** Building cost-efficient fiber-optic, cable, or internet networks.
-**Transportation Planning:** Optimizing road or railway systems with minimal construction costs.
-**Power Grid Design:** Creating electrical networks with minimal wiring while ensuring full connectivity.
-**Cluster Analysis:** In machine learning, MSTs are used for hierarchical clustering.
+- **Network Design:** Building cost-efficient fiber-optic, cable, or internet networks.
+- **Transportation Planning:** Optimizing road or railway systems with minimal construction costs.
+- **Power Grid Design:** Creating electrical networks with minimal wiring while ensuring full connectivity.
+- **Cluster Analysis:** In machine learning, MSTs are used for hierarchical clustering.
 
 ### Acknowlegements
-**NetworkX:** For its powerful tools for graph representation and manipulation.
-**Matplotlib: **For providing effective data visualization capabilities.
-**Graph Theory:** The inspiration for solving real-world connectivity problems efficiently.
+- **NetworkX:** For its powerful tools for graph representation and manipulation.
+- **Matplotlib:** For providing effective data visualization capabilities.
+- **Graph Theory:** The inspiration for solving real-world connectivity problems efficiently.
 
 
 
