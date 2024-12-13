@@ -89,7 +89,12 @@ python mst.py
 This project uses NetworkX and Matplotlib for graph visualization:
 - Original Graph: Displays all nodes, edges, and weights.
 - Minimum Spanning Tree: Highlights the edges included in the MST.
-<a></a>
+## Original Graph
+![MST Input](MST-input.png)
+
+## MST
+![MST Output](MST-output.png)
+
 
 ### Applications
 This project has real-world applications in:
